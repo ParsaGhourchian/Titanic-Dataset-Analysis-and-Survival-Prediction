@@ -120,6 +120,9 @@ The Logistic Regression model achieves a decent accuracy on predicting survival.
 Conclusion
 
 The Titanic dataset is a great starting point for practicing data analysis, preprocessing, and machine learning.
+Logistic Regression was applied for survival prediction, and performance evaluation shows that the model can predict survival with reasonable accuracy.
+
+Data visualization helped to uncover useful patterns and trends in the dataset, contributing to a better understanding of the relationships between features.
 
 <img width="562" height="455" alt="download" src="https://github.com/user-attachments/assets/94ce4473-1aff-4e4c-a4c5-9af8f94e2139" />
 <img width="571" height="455" alt="download (1)" src="https://github.com/user-attachments/assets/d8fbd5d9-aa41-4800-b7b9-e01de93fff17" />
@@ -130,16 +133,3 @@ The Titanic dataset is a great starting point for practicing data analysis, prep
 <img width="389" height="411" alt="download (6)" src="https://github.com/user-attachments/assets/8caf921d-dfcd-46b5-8ab9-c3c47b117568" />
 <img width="571" height="455" alt="download (7)" src="https://github.com/user-attachments/assets/ea139118-15a0-464d-86c0-c24d723b0a60" />
 
-
-
-
-
-
-
-
-
-
-
-Logistic Regression was applied for survival prediction, and performance evaluation shows that the model can predict survival with reasonable accuracy.
-
-Data visualization helped to uncover useful patterns and trends in the dataset, contributing to a better understanding of the relationships between features.
