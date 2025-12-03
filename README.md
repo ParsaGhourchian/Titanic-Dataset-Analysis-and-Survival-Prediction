@@ -1,4 +1,4 @@
-Titanic Dataset Analysis and Survival Prediction
+# Titanic Dataset Analysis and Survival Prediction
 
 This project aims to explore the Titanic dataset and build a predictive model to forecast whether a passenger survived or not based on various features such as age, sex, passenger class, and more. The project uses Logistic Regression for classification and includes a thorough analysis and data visualization.
 
@@ -21,7 +21,7 @@ Results
 Conclusion
 
 
-Project Overview
+# Project Overview
 
 The Titanic dataset contains information about passengers who were aboard the Titanic, including whether they survived, their age, class, fare, and more. This project involves data preprocessing, building a Logistic Regression model for survival prediction, and evaluating the model's performance. Additionally, various visualizations are created to better understand the dataset.
 
@@ -53,7 +53,7 @@ Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 PassengerId: Passenger ID
 
-Installation
+# Installation
 
 To run this project, you need to install the following dependencies:
 
@@ -73,7 +73,8 @@ Missing Embarked values are filled with the mode (most frequent value).
 
 Label Encoding: Categorical features like Sex and Embarked are encoded into numeric values using LabelEncoder.
 
-Model Building and Evaluation
+# Model Building and Evaluation
+
 Steps:
 
 Feature Selection: The target variable Survived is separated from the features.
@@ -91,7 +92,7 @@ y_pred = model.predict(X_test)
 
 Confusion Matrix and Classification Report are displayed to assess the model's performance.
 
-Data Visualization
+# Data Visualization
 
 Several visualizations are created to explore the dataset:
 
@@ -113,11 +114,11 @@ Countplot: Survival count by Sex
 
 These visualizations help to understand trends, distributions, and relationships in the data.
 
-Results
+#Results
 
 The Logistic Regression model achieves a decent accuracy on predicting survival. The evaluation metrics (precision, recall, F1-score) provide insights into the model's ability to correctly classify survivors and non-survivors.
 
-Conclusion
+# Conclusion
 
 The Titanic dataset is a great starting point for practicing data analysis, preprocessing, and machine learning.
 Logistic Regression was applied for survival prediction, and performance evaluation shows that the model can predict survival with reasonable accuracy.
